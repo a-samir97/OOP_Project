@@ -1,0 +1,14 @@
+﻿  Source.cpp
+Source.cpp(431): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(471): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(483): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(511): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(516): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+c:\users\cdc\desktop\oop project_console\oop project_console\source.cpp(506): warning C4715: 'login': not all control paths return a value
+  2 of 565 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OOP Project_Console.vcxproj -> C:\Users\CDC\Desktop\OOP Project_Console\Release\OOP Project_Console.exe
+  OOP Project_Console.vcxproj -> C:\Users\CDC\Desktop\OOP Project_Console\Release\OOP Project_Console.pdb (Full PDB)

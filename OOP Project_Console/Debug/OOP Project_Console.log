@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\cdc\desktop\oop project_console\oop project_console\source.cpp(427): warning C4018: '<': signed/unsigned mismatch
+c:\users\cdc\desktop\oop project_console\oop project_console\source.cpp(467): warning C4018: '<': signed/unsigned mismatch
+c:\users\cdc\desktop\oop project_console\oop project_console\source.cpp(479): warning C4018: '<': signed/unsigned mismatch
+c:\users\cdc\desktop\oop project_console\oop project_console\source.cpp(507): warning C4018: '<': signed/unsigned mismatch
+c:\users\cdc\desktop\oop project_console\oop project_console\source.cpp(512): warning C4018: '<': signed/unsigned mismatch
+c:\users\cdc\desktop\oop project_console\oop project_console\source.cpp(502): warning C4715: 'login': not all control paths return a value
+Source.obj : error LNK2001: unresolved external symbol "public: static int Ministry::number_of_ministries" (?number_of_ministries@Ministry@@2HA)
+C:\Users\CDC\Desktop\OOP Project_Console\Debug\OOP Project_Console.exe : fatal error LNK1120: 1 unresolved externals
